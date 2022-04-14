@@ -14,13 +14,15 @@ A simple repo to get used to get used to Git.
   - Upper Right >> New Project
   - Left Menu >> select Maven >> Next
   - Enter a name
-  - Create a new directory, something like C:\my-java-projects\test
+  - Create a new directory, something like `C:\my-java-projects\test`
   - Click Finish
-  - Right click on the java folder (/src/main/java):
+  - Right click on the java folder (`/src/main/java`):
   - New Java Class
     - Give it a name, "Main"
     - Type "main" >> press tab
     - Type "sout" press tab
+    - Provide a string to the `println()` function
+![](./docs/main.png)
     
 #### Connect IntelliJ with Github
 - Click in the terminal window in IntelliJ (bottom)
@@ -48,5 +50,4 @@ git reset --hard
 git clean -f
 ```
 
-# Main
-![](./docs/main.png)
+
