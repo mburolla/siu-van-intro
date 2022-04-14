@@ -1,6 +1,25 @@
 # SIU Java Intro
 A simple repo to get used to Git.
 
+# Common Git Commands
+```
+git init
+git clone <url>
+git fetch --all
+git push origin <branch name>
+git pull origin <branch name>
+git remote add origin <url>
+git add --all
+git branch
+git checkout -b <new branch name>
+git checkout
+git commit -m “your message”
+git status
+git reset --hard
+git clean -f
+```
+
+
 # Assignment 
 
 #### GitHub
@@ -34,7 +53,7 @@ A simple repo to get used to Git.
   - Click on the Green arrow and run the Java program (`Run 'Main.main()'`).
   - If it works, let's push it to GitHub!
     
-#### Connect IntelliJ with Github
+#### Connect Code with GitHub
 - Open the Terminal window in IntelliJ (bottom tab)
 - `git init`
 - `git remote add origin {paste ssh url from above}`
@@ -42,31 +61,22 @@ A simple repo to get used to Git.
 - `git commit -m "First push."`
 - `git push origin main`
 
+
+- GitHub should resemble something like this:
 ![](./docs/github.png)
 
-- Add a `readme.md` file in IntelliJ (below the `pom.xml` file)
-- `git add --all`
-- `git commit -m "Add readme.`
-- `git push origin main`
 
-ProTip: Open a Terminal window as a Command Prompt:
+#### Add Readme
+- Add a `readme.md` file in IntelliJ:
+  - Right click `pom.xml` >> New >> File
+  - Add some [Markdown](https://www.markdownguide.org/basic-syntax/) text to the readme.md file
+  - Save it
+  - `git add --all`
+  - `git commit -m "Add readme.`
+  - `git push origin main`
 
-`git add --all && git commit -m "Add readme. && git push origin main`
+ProTip: Open a Terminal window as a Command Prompt so we can change Git commands together:
 
-# Common Git Commands
-```
-git init
-git clone <url>
-git fetch --all
-git push origin <branch name>
-git pull origin <branch name>
-git remote add origin <url>
-git add --all
-git branch
-git checkout -b <new branch name>
-git checkout
-git commit -m “your message”
-git status
-git reset --hard
-git clean -f
-```
+![](./docs/cmd-shell.png)
+
+`git add --all && git commit -m "Add readme." && git push origin main`
