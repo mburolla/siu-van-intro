@@ -7,16 +7,25 @@ A simple repo to get used to get used to Git.
   - Upper right >> Click "+" >> New Repository >> {name}
   - Make sure it's public
   - Click Create Repository
-  - Copy the ssh url, for example: `git@github.com:{your github handle}/{name}.git`
+  - Copy the SSH url, for example: `git@github.com:{your github handle}/{name}.git`
 
 #### IntelliJ
 - Create a new Maven project in IntelliJ
-- File >> New Project >> Maven
-
+  - Upper Right >> New Project
+  - Left Menu >> select Maven >> Next
+  - Enter a name
+  - Create a new directory, something like C:\my-java-projects\test
+  - Click Finish
+  - Right click on the java folder (/src/main/java):
+  - New Java Class
+    - Give it a name, "Main"
+    - Type "main" >> press tab
+    - Type "sout" press tab
+    
 #### Connect IntelliJ with Github
 - Click in the terminal window in IntelliJ (bottom)
 - `git init`
-- `git remote add origin {ssh url from above}`
+- `git remote add origin {paste ssh url from above}`
 - `git add --all`
 - `git commit -m "first push"`
 - `git push origin main`
