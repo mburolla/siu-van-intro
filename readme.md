@@ -20,6 +20,8 @@ A simple repo to get used to get used to Git.
   ![](./docs/java-projects.png)
 
   - Click Finish
+  - Wait a bit for maven to download dependencies
+  - The java folder should be a light blue color, different from the rest of the folders
   - Right click on the java folder (`/src/main/java`):
   - New >> Java Class
     - Give it a name, "Main"
@@ -28,13 +30,16 @@ A simple repo to get used to get used to Git.
     - Provide a string to the `println()` function
     
 ![](./docs/main.png)
+
+  - Click on the Green arrow and run the Java program (`Run 'Main.main()'`).
+  - If it works, let's push it to GitHub!
     
 #### Connect IntelliJ with Github
 - Open the Terminal window in IntelliJ (bottom tab)
 - `git init`
 - `git remote add origin {paste ssh url from above}`
 - `git add --all`
-- `git commit -m "first push"`
+- `git commit -m "First push."`
 - `git push origin main`
 
 ![](./docs/github.png)
