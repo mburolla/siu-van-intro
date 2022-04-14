@@ -66,7 +66,7 @@ git clean -f
 ![](./docs/github.png)
 
 
-#### Add Readme
+#### Add Readme File
 - Add a `readme.md` file in IntelliJ:
   - Right click `pom.xml` >> New >> File
   - Add some [Markdown](https://www.markdownguide.org/basic-syntax/) text to the readme.md file
