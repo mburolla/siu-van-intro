@@ -64,7 +64,7 @@ git clean -f
 Refresh your browser.  GitHub should resemble something like this:
 
 ![](./docs/github.png)
-
+ 
 
 #### Add Readme File
 - Add a `readme.md` file in IntelliJ:
