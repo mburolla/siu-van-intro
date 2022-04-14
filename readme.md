@@ -61,7 +61,8 @@ git clean -f
 - `git push origin main`
 
 
-- GitHub should resemble something like this:
+Refresh your browser.  GitHub should resemble something like this:
+
 ![](./docs/github.png)
 
 
