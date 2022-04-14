@@ -24,7 +24,7 @@ git clean -f
 
 #### GitHub
 - Create new public repo in your GitHub account:
-  - Upper right >> Click "+" >> New Repository >> {name}
+  - Upper right corner >> Click "+" >> New Repository >> {name}
   - Make sure it's public
   - Click Create Repository
   - Copy the SSH url, for example: `git@github.com:{your github handle}/{name}.git`
