@@ -29,7 +29,7 @@ git clean -f
   - Copy the SSH url, for example: `git@github.com:{your github handle}/{name}.git`
 
 #### IntelliJ
-- Create a new Maven project in IntelliJ
+- Create a new Maven project with IntelliJ
   - Upper Right >> New Project
   - Left Menu >> select Maven >> Next
   - Enter a name
