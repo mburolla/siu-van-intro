@@ -22,6 +22,7 @@ A simple repo to get used to get used to Git.
     - Type "main" >> press tab
     - Type "sout" press tab
     - Provide a string to the `println()` function
+    
 ![](./docs/main.png)
     
 #### Connect IntelliJ with Github
