@@ -24,9 +24,9 @@ A simple repo to get used to Git.
   - The java folder should be a light blue color, different from the rest of the folders
   - Right click on the java folder (`/src/main/java`):
   - New >> Java Class
-    - Give it a name, "Main"
-    - Type "main" >> press tab
-    - Type "sout" press tab
+    - Specify a class name, something like: `Main`
+    - Type `main` >> press tab
+    - Type `sout` >> press tab
     - Provide a string to the `println()` function
     
 ![](./docs/main.png)
