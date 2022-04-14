@@ -38,7 +38,7 @@ git clean -f
   ![](./docs/new-java-project.png)
 
   - Click Finish
-  - Wait a bit for maven to download dependencies
+  - Wait a bit for maven to initialize the project
   - The java folder should be a light blue color, different from the rest of the folders
   - Right click on the java folder (`/src/main/java`):
   - New >> Java Class
