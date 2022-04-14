@@ -26,7 +26,7 @@ A simple repo to get used to get used to Git.
 ![](./docs/main.png)
     
 #### Connect IntelliJ with Github
-- Click in the terminal window in IntelliJ (bottom)
+- OPen the Terminal window in IntelliJ (bottom tab)
 - `git init`
 - `git remote add origin {paste ssh url from above}`
 - `git add --all`
