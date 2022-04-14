@@ -1,5 +1,5 @@
 # SIU Java Intro
-A simple repo to help students get used to Git.
+A simple repo to help students get used to Git. 
 
 # Common Git Commands
 ```
