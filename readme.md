@@ -17,7 +17,7 @@ A simple repo to get used to Git.
   - Enter a name
   - Create a new directory, something like `C:\my-java-projects\test`
 
-  ![](./docs/java-projects.png)
+  ![](./docs/new-java-project.png)
 
   - Click Finish
   - Wait a bit for maven to download dependencies
