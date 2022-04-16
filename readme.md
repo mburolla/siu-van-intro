@@ -26,6 +26,7 @@ git commit -m “your message”
 git status
 git reset --hard
 git clean -f
+git stash
 ```
 
 # Assignment 
