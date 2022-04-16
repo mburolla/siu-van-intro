@@ -2,13 +2,13 @@
 A simple repo to help students get used to Git. 
 
 # Updating Code & Pushing to GitHub
-- Identify the branch you are on: git branch
-- Create a branch from the branch you are currently on: git checkout -b dev-{initials}-{context}
-- To see what has changed: git status
-- PROTIP: ALWAYS run git status before you make a commit
-- To stage ALL files: git add --all
-- To create a commit: git commit -m "YOUR_MESSAGE_HERE"
-- To push to GitHub: git push origin YOUR_BRANCH_NAME
+- Identify the branch you are on: `git branch`
+- Create a branch from the branch you are currently on: `git checkout -b dev-{initials}-{context}`
+- To see what has changed: `git status`
+- PROTIP: ALWAYS run `git status` before you make a commit
+- To stage ALL files: `git add --all`
+- To create a commit: `git commit -m "YOUR_MESSAGE_HERE"`
+- To push to GitHub: `git push origin YOUR_BRANCH_NAME`
 
 # Common Git Commands
 ```
