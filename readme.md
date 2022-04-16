@@ -104,9 +104,12 @@ ProTip: Add this as a "live template" (code snippet) in IntelliJ: File >> Settin
 - `git init`
 - `git remote add origin {paste ssh url from above}`
 - `git add --all`
-- `git commit -m "First push."`
+- `git commit -m "Initial commit."`
 - `git push origin main`
 
+ProTip: Change your default shell to `cmd.exe` so you can change all the Git commands together:
+
+`git add --all && git commit -m "Initial commit." && git push origin main`
 
 Refresh your browser.  GitHub should resemble something like this:
 
