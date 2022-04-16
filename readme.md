@@ -60,7 +60,43 @@ git clean -f
 
   - Click on the Green arrow and run the Java program (`Run 'Main.main()'`).
   - If it works, let's push it to GitHub!
-    
+  
+#### Add GitIngore File
+Create a file called `.gitignore` and above the `pom.xml` file.  Add the following contents to this file:
+
+```
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Compiled
+*.class
+target/**
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IntelliJ project files
+.idea/misc.xml
+**/*.iml
+.idea/**
+.idea
+*.iml
+out
+gen
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Database
+application.properties
+```
+
 #### Connect Code with GitHub
 - Open the Terminal window in IntelliJ (bottom tab)
 - `git init`
