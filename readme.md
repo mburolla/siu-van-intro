@@ -61,7 +61,7 @@ git clean -f
   - Click on the Green arrow and run the Java program (`Run 'Main.main()'`).
   - If it works, let's push it to GitHub!
   
-#### Add GitIngore File
+#### Add Git Ingore File
 Create a file called `.gitignore` and above the `pom.xml` file.  Add the following contents to this file:
 
 ```
