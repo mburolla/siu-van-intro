@@ -97,6 +97,7 @@ hs_err_pid*
 # Database
 application.properties
 ```
+ProTip: Add this as a "live template" (code snippet) in IntelliJ: File >> Settings >> Search Live Templates.
 
 #### Connect Code with GitHub
 - Open the Terminal window in IntelliJ (bottom tab)
