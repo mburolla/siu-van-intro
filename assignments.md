@@ -103,7 +103,7 @@ Refresh your browser.  GitHub should resemble something like this:
     - `git commit -m "Add readme.`
     - `git push origin main`
 
-ProTip: Open a Terminal window as a Command Prompt so we can change Git commands together:
+ProTip: Open a Terminal window as a Command Prompt so we can chain Git commands together:
 
 ![](./docs/cmd-shell.png)
 
