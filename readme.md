@@ -12,7 +12,6 @@ A repository (repo) to help students get used to Git.  Assigments are located [h
 - [Intro to GitHub](./docs/Intro-to-GitHub.pptx)
 - [Atlassian Git Cheat Sheet](./docs/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
 
-
 # Updating Code & Pushing to GitHub
 - Identify the branch you are on: `git branch`
 - Create a branch from the branch you are currently on: `git checkout -b dev-{your initials}-{context}`
