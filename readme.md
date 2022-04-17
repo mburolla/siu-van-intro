@@ -11,6 +11,7 @@ A repository (repo) to help students get used to Git.  Assigments are located [h
 
 # Links
 - [Atlassian What is Git?](https://www.atlassian.com/git/tutorials/what-is-git)
+- [Intro to GitHub](./docs/Intro%20to%20GitHub.pptx)
 
 # Updating Code & Pushing to GitHub
 - Identify the branch you are on: `git branch`
