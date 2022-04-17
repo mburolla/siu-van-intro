@@ -3,7 +3,7 @@ A repository (repo) to help students get used to Git.  Assigments are located [h
 
 # Getting Started
 - Setup your SSH keys
-- Get added to this repo
+- Accept the invitation for this repo in your email
 - Clone this repo 
 
 # Videos
