@@ -9,7 +9,7 @@ A simple repo to help students get used to Git.  Assigments are located [here](a
 - [Git Tutorial for Beginners: Command-Line Fundamentals (30m)](https://youtu.be/HVsySz-h9r4)
 
 # Links
-[Atlassian What is Git?](https://www.atlassian.com/git/tutorials/what-is-git)
+- [Atlassian What is Git?](https://www.atlassian.com/git/tutorials/what-is-git)
 
 # Updating Code & Pushing to GitHub
 - Identify the branch you are on: `git branch`
