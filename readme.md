@@ -1,6 +1,11 @@
 # GitHub Intro with Java
 A repository (repo) to help students get used to Git.  Assigments are located [here](assignments.md).
 
+#Getting Started
+- Setup your SSH keys
+- Get added to this repo
+- Clone this repo
+
 # Videos
 - [Git Tutorial for Beginners: Learn Git in (1h)](https://youtu.be/8JJ101D3knE)
 - [Command Prompt Basics: How to use CMD (18m)](https://youtu.be/A3nwRCV-bTU)
