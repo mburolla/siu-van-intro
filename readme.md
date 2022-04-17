@@ -1,4 +1,4 @@
-# SIU Java Intro
+# GitHub Intro with Java
 A repository (repo) to help students get used to Git.  Assigments are located [here](assignments.md).
 
 # Videos
