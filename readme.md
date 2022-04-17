@@ -4,6 +4,7 @@ A repository (repo) to help students get used to Git.  Assigments are located [h
 [Atlassian Git Cheat Sheet](./docs/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
 
 # Videos
+- [Command Prompt Basics: How to use CMD (18m)](https://youtu.be/A3nwRCV-bTU)
 - [Git Tutorial for Beginners: Learn Git in (1h)](https://youtu.be/8JJ101D3knE)
 - [Learn Git In (15m)](https://youtu.be/USjZcfj8yxE)
 - [Git Tutorial for Beginners: Command-Line Fundamentals (30m)](https://youtu.be/HVsySz-h9r4)
