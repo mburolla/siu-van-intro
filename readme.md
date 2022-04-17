@@ -9,7 +9,7 @@ A repository (repo) to help students get used to Git.  Assigments are located [h
 
 # Links
 - [Atlassian What is Git?](https://www.atlassian.com/git/tutorials/what-is-git)
-- [Intro to GitHub](./docs/Intro-to-GitHub.pptx) (Download only)
+- [How Teams Use GitHub](./docs/Intro-to-GitHub.pptx) (Download only)
 - [Atlassian Git Cheat Sheet](./docs/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
 
 # Updating Code & Pushing to GitHub
