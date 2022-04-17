@@ -15,7 +15,7 @@ A repository (repo) to help students get used to Git.  Assigments are located [h
 - Identify the branch you are on: `git branch`
 - Create a branch from the branch you are currently on: `git checkout -b dev-{your initials}-{context}`
 - To see what has changed: `git status`
-  - ProTip: ALWAYS run `git status` before you make a commit
+  - ProTip: Always run `git status` before you make a commit (to make sure you are not adding "junk" to your commit)
 - To stage ALL files: `git add --all`
 - To create a commit: `git commit -m "YOUR_MESSAGE_HERE"`
 - To push to GitHub: `git push origin YOUR_BRANCH_NAME`
