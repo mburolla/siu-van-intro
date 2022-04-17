@@ -20,7 +20,7 @@ A repository (repo) to help students get used to Git.  Assigments are located [h
 # Primary Workflow
 - Identify the branch you are on: `git branch`
 - Create a branch from the branch you are currently on: `git checkout -b dev-{your initials}-{context}`
-- Code Monkey
+- Code Monkey 
   - Write code
   - Run code 
   - Test code
