@@ -17,14 +17,22 @@ A repository (repo) to help students get used to Git.  Assigments are located [h
 - [How Teams Use GitHub](./docs/Intro-to-GitHub.pptx) (Download only)
 - [Atlassian Git Cheat Sheet](./docs/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
 
-# Updating Code & Pushing to GitHub
+# Primary Workflow
 - Identify the branch you are on: `git branch`
 - Create a branch from the branch you are currently on: `git checkout -b dev-{your initials}-{context}`
+- [Code Monkey](https://youtu.be/v4Wy7gRGgeA)
+  - Write code
+  - Run code 
+  - Test code
 - See what has changed: `git status`
   - ProTip: Always run `git status` before you make a commit (to make sure you are not adding "junk" to your commit)
 - Stage all files: `git add --all`
 - Create a commit: `git commit -m "YOUR_MESSAGE_HERE"`
 - Push to GitHub: `git push origin YOUR_BRANCH_NAME`
+- Create Pull Request (PR)
+- Merge PR
+- Update your local dev branch: `git checkout dev && git pull origin dev`
+- Delete your branch that was just submitted: `git branch -D YOUR_BRANCH_NAME`
 
 # Common Git Commands
 ```
