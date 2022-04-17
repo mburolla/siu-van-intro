@@ -1,5 +1,5 @@
 # SIU Java Intro
-A simple repo to help students get used to Git.  Assigments are located [here](assignments.md).
+A repository (repo) to help students get used to Git.  Assigments are located [here](assignments.md).
 
 [Atlassian Git Cheat Sheet](./docs/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
 
