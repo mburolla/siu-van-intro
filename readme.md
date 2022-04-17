@@ -1,8 +1,6 @@
 # SIU Java Intro
 A repository (repo) to help students get used to Git.  Assigments are located [here](assignments.md).
 
-[Atlassian Git Cheat Sheet](./docs/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
-
 # Videos
 - [Command Prompt Basics: How to use CMD (18m)](https://youtu.be/A3nwRCV-bTU)
 - [Git Tutorial for Beginners: Learn Git in (1h)](https://youtu.be/8JJ101D3knE)
@@ -12,7 +10,8 @@ A repository (repo) to help students get used to Git.  Assigments are located [h
 # Links
 - [Atlassian What is Git?](https://www.atlassian.com/git/tutorials/what-is-git)
 - [Intro to GitHub](./docs/Intro%20to%20GitHub.pptx)
-
+- [Atlassian Git Cheat Sheet](./docs/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
+- 
 # Updating Code & Pushing to GitHub
 - Identify the branch you are on: `git branch`
 - Create a branch from the branch you are currently on: `git checkout -b dev-{your initials}-{context}`
