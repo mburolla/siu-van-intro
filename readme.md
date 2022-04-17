@@ -1,7 +1,7 @@
 # GitHub Intro with Java
 A repository (repo) to help students get used to Git.  Assigments are located [here](assignments.md).
 
-#Getting Started
+# Getting Started
 - Setup your SSH keys
 - Get added to this repo
 - Clone this repo 
