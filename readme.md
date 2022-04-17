@@ -2,8 +2,8 @@
 A repository (repo) to help students get used to Git.  Assigments are located [here](assignments.md).
 
 # Videos
-- [Command Prompt Basics: How to use CMD (18m)](https://youtu.be/A3nwRCV-bTU)
 - [Git Tutorial for Beginners: Learn Git in (1h)](https://youtu.be/8JJ101D3knE)
+- [Command Prompt Basics: How to use CMD (18m)](https://youtu.be/A3nwRCV-bTU)
 - [Learn Git In (15m)](https://youtu.be/USjZcfj8yxE)
 - [Git Tutorial for Beginners: Command-Line Fundamentals (30m)](https://youtu.be/HVsySz-h9r4)
 
