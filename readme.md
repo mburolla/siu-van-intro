@@ -69,3 +69,5 @@ staging and actual commit.
 - `pom.xml` - Project Object Model
 - Wildcard: `*` Used to indicate any value (Example: List all JavaScript files: `dir *.js`)
 - `.md` stands for [MarkDown](https://www.markdownguide.org/basic-syntax/) 
+
+- Test
