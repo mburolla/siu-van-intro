@@ -112,3 +112,7 @@ ProTip: Open a Terminal window as a Command Prompt so we can chain Git commands 
 ![](./docs/cmd-shell.png)
 
 `git add --all && git commit -m "Add readme." && git push origin main`
+
+-- or --
+
+`git add --all && git commit -m "Add readme." && git push origin master`
