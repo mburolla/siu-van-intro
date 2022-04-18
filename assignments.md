@@ -20,21 +20,25 @@ Github account.
 #### IntelliJ
 - Create a new Maven project with IntelliJ
     - Upper Right >> New Project
+    - Make sure you select Maven build as the build system:
+
+    ![](./docs/maven.png)
+
     - Left Menu >> select Maven >> Next
     - Enter a name
     - Create a new directory, something like `C:\my-java-projects\test`
 
   ![](./docs/new-java-project.png)
 
-    - Click Finish
-    - Wait a bit for maven to initialize the project
-    - The java folder should be a light blue color, different from the rest of the folders
-    - Right click on the java folder (`/src/main/java`):
-    - New >> Java Class
-        - Specify a class name, something like: `Main`
-        - Type `main` >> press tab
-        - Type `sout` >> press tab
-        - Provide a string to the `println()` function
+  - Click Finish
+  - Wait a bit for maven to initialize the project
+  - The java folder should be a light blue color, different from the rest of the folders
+  - Right click on the java folder (`/src/main/java`):
+  - New >> Java Class
+      - Specify a class name, something like: `Main`
+      - Type `main` >> press tab
+      - Type `sout` >> press tab
+      - Provide a string to the `println()` function
 
 ![](./docs/main.png)
 
@@ -84,7 +88,7 @@ ProTip: Add this as a "live template" (code snippet) in IntelliJ: File >> Settin
 - `git remote add origin {paste ssh url from above}`
 - `git add --all`
 - `git commit -m "Initial commit."`
-- `git push origin main`
+- `git push origin main` or `git push origin master`
 
 ProTip: Change your default shell to `cmd.exe` so you can chain all the Git commands together:
 
@@ -101,7 +105,7 @@ Refresh your browser.  GitHub should resemble something like this:
     - Save it
     - `git add --all`
     - `git commit -m "Add readme.`
-    - `git push origin main`
+    - `git push origin main` or `git push origin master`
 
 ProTip: Open a Terminal window as a Command Prompt so we can chain Git commands together:
 
