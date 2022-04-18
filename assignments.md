@@ -15,7 +15,7 @@ Github account.
     - Upper right corner >> Click "+" >> New Repository >> {name}
     - Make sure it's public
     - Click Create Repository
-    - Copy the SSH url, for example: `git@github.com:{your github handle}/{name}.git`
+    - Copy the **SSH** url, for example: `git@github.com:{your github handle}/{name}.git`
 
 #### IntelliJ
 - Create a new Maven project with IntelliJ
