@@ -3,11 +3,18 @@
 # Ex. 1 Clone & Push
 - Generate SSH keys
 - Clone this repo
-- Update the main class with your name & favorite food
+- Create a new branch using the following format: `dev-{your initials}-ex1`
+- Update the main class with your name
 - Push your branch to the repo
 
-# Ex. 2 Create Java Project & Push to Your Repo
-This assignment involves creating a new Java/Maven project and pushing it to a Git repository in your 
+# Ex. 2 Clone & Push
+- Generate SSH keys
+- Clone this repo
+- Update the main class with your name and favorite food
+- Push your branch to the repo
+
+# Ex. 3 Create Java Project & Push to Your Repo
+This exercise involves creating a new Java/Maven project and pushing it to a Git repository in your 
 Github account.
 
 #### GitHub
