@@ -53,20 +53,3 @@ git reset --hard
 git clean -f
 git stash
 ```
-
-# Terms
-- Refactor - Restructure (the source code of an application or piece of software) so as to
-improve operation without altering functionality.
-- PowerShell - A cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework.
-PowerShell runs on Windows, Linux, and macOS.
-- Staging - Git: Staging is a step before the commit process in git. That is, a commit in git is performed in two steps:
-staging and actual commit.
-- Staging - Environment: A place where code is placed before it is released
-- Jira: The standard project tracking tool used in this industry
-- IDE: Integerated Developer Environment, such as IntelliJ (Xcode, Visual Studio)
-- VSCode: A nice text editor, possibly an IDE?
-- `.gitignore` A text file that tells Git which files or folders to ignore for the specified repository
-- `pom.xml` - Project Object Model
-- Wildcard: `*` Used to indicate any value (Example: List all JavaScript files: `dir *.js`)
-- `.md` stands for [MarkDown](https://www.markdownguide.org/basic-syntax/) 
-
